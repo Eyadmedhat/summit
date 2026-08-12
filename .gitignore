@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!README.md
+!task1.ipynb
+!airbnb_clean.csv
+!task1_data_air/
+!task1_data_air/Airbnb_Open_Data.csv
